@@ -1,0 +1,257 @@
+.navbar-nav li a {
+	color: #fff !important;
+}
+
+.transparent .ui-mobile-nav-toggle > div > span,
+.navbar-dark .ui-mobile-nav-toggle > div > span {
+	background-color: #fff;
+}
+
+.headerbg {
+	background: #fff;
+	background-image: url(../img/hero-header/iphone/header-bg.png);
+	background-size: cover;
+}
+
+.action-to-app-store img {
+	width: 170px;
+}
+
+.ui-hero .paragraph {
+	color: #fff;
+}
+
+.hero-text {
+	color: #fff !important;
+}
+
+.moc-up {
+	width: 100%;
+}
+
+.thumb img {
+	width: 80px;
+}
+
+.features-card {
+	padding: 40px;
+}
+
+.features-section-overlay {
+	background: #fff;
+	background-image: url(../img/hero-header/iphone/features-overlay.png);
+	background-size: contain;
+}
+
+.features-section-overlay {
+	margin-bottom: 40px;
+	margin-top: 120px;
+	padding: 20px 0;
+	background-repeat: no-repeat;
+}
+
+.iphone-store {
+	position: relative;
+	top: -125px;
+	text-align: center;
+}
+
+.iphone-store img {
+	width: 225px;
+}
+
+.app-store-actions img {
+	width: 190px;
+}
+
+.app-store-header {
+	font-weight: 700;
+	padding-bottom: 15px;
+}
+
+.app-store-sub-heading {
+	color: #fff;
+	padding: 10px 120px 10px 0;
+	font-size: 18px;
+	line-height: 2.1rem;
+	font-family: 'Poppins-light', sans-serif;
+}
+
+.footer-section {
+	background-image: url(../img/hero-header/iphone/footer-bg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.footer-section {
+	padding: 60px 0;
+}
+
+.footer-p {
+	color: #fff;
+}
+
+.headingf {
+	color: #fff;
+}
+
+.btn.btn-circle {
+	color: #fff;
+}
+
+.bg-white {
+	background-color: #5c10e3;
+}
+
+nav ul ul {
+	background: #5f1ee8;
+	border: 1px solid #5e1ae7 !important;
+}
+
+nav ul ul li {
+	border: 1px solid #5e1ae7 !important;
+}
+
+nav ul ul li:hover {
+	background-color: #6320e3;
+}
+
+.featured-2 {
+	background-image: url(../img/hero-header/iphone/bg/features-2.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 190px 0;
+}
+
+.featured-1 {
+	background-image: url(../img/hero-header/iphone/bg/features-1.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.featured-3 {
+	background-image: url(../img/hero-header/iphone/bg/features-3.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+@media (min-width: 1200px) {
+	.ui-hero.ui-waves {
+		padding: 5rem 0 10rem 0;
+	}
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+	.app-store-sub-heading {
+		padding: 25px !important;
+	}
+
+	.app-store-header {
+		font-size: 28px;
+	}
+
+	.bg-second-block {
+		padding-top: 80px;
+	}
+
+	.featured-section-2 {
+		padding-bottom: 40px;
+	}
+
+	.iphone-store {
+		top: 30px;
+	}
+
+	.footer-p {
+		font-weight: 600;
+	}
+
+	.features-mobile-frame {
+		width: 100%;
+	}
+
+	.features-section-overlay {
+		background-image: url(../img/hero-header/iphone/optz-app-bg.png);
+		background-size: cover;
+	}
+
+	.action-to-app-store img {
+		width: 140px;
+	}
+
+	.iphone-store img {
+		width: 215px;
+	}
+
+	.headerdiv {
+		text-align: center;
+		padding-top: 60px !important;
+		padding-bottom: 44px;
+	}
+}
+
+.ui-mobile-nav-toggle > div > span {
+	background-color: #f5f5f5;
+}
+
+@media (max-width: 991px) {
+	.navbar .ui-navigation .nav.navbar-nav li {
+		background: #6b27fd;
+	}
+}
+
+@media (max-width: 1200px) and (min-width: 1010px) {
+	nav ul li {
+		padding: 0;
+	}
+
+	.navbar .ui-navigation.navbar-center .navbar-nav {
+		align-items: unset;
+	}
+
+	.load i {
+		top: 4px;
+		left: 18%;
+	}
+
+	.load {
+		width: 35px;
+		height: 35px;
+		left: 15px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+	.iphone-store img {
+		width: 185px;
+	}
+
+	.headerdiv {
+		padding-top: 0;
+		padding-bottom: 40px;
+	}
+
+	.app-store-actions img {
+		width: 150px;
+	}
+
+	.app-store-header {
+		padding-bottom: 5px;
+		color: #000 !important;
+	}
+
+	.app-store-sub-heading {
+		color: #000;
+	}
+}
+
+@media (min-width: 1000px) and (max-width: 1024px) {
+	.app-store-header {
+		padding-bottom: 5px;
+		color: #fff !important;
+	}
+
+	.app-store-sub-heading {
+		color: #fff;
+	}
+}
